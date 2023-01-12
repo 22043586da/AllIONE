@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\RequestLibrary\bin\Debug\net6.0\RequestLibrary.deps.json
+C:\Users\User\source\repos\RequestLibrary\bin\Debug\net6.0\RequestLibrary.dll
+C:\Users\User\source\repos\RequestLibrary\bin\Debug\net6.0\RequestLibrary.pdb
+C:\Users\User\source\repos\RequestLibrary\obj\Debug\net6.0\RequestLibrary.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RequestLibrary\obj\Debug\net6.0\RequestLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RequestLibrary\obj\Debug\net6.0\RequestLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RequestLibrary\obj\Debug\net6.0\RequestLibrary.AssemblyInfo.cs
+C:\Users\User\source\repos\RequestLibrary\obj\Debug\net6.0\RequestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RequestLibrary\obj\Debug\net6.0\RequestLibrary.dll
+C:\Users\User\source\repos\RequestLibrary\obj\Debug\net6.0\refint\RequestLibrary.dll
+C:\Users\User\source\repos\RequestLibrary\obj\Debug\net6.0\RequestLibrary.pdb
+C:\Users\User\source\repos\RequestLibrary\obj\Debug\net6.0\ref\RequestLibrary.dll
